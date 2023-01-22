@@ -1,0 +1,4266 @@
+[
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield12_0",
+      "callsign": "AP",
+      "direction": 41.500201,
+      "name": "Anapa-Vityazevo",
+      "frequency": 443000,
+      "position": [
+        -1321.801758,
+        12.352437,
+        246748.5
+      ],
+      "sceneObjects": [
+        "t:297697280"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.396435,
+        45.039907
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield12_1",
+      "callsign": "P",
+      "direction": 41.500201,
+      "name": "Anapa-Vityazevo",
+      "frequency": 215000,
+      "position": [
+        -3343.976563,
+        40.271662,
+        244959.421875
+      ],
+      "sceneObjects": [
+        "t:297664512"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.372401,
+        45.022628
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield12_2",
+      "callsign": "AN",
+      "direction": -138.499789,
+      "name": "Anapa-Vityazevo",
+      "frequency": 443000,
+      "position": [
+        -9500.015625,
+        24.885315,
+        239511.625
+      ],
+      "sceneObjects": [
+        "t:294420488"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.299308,
+        44.969992
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield12_3",
+      "callsign": "N",
+      "direction": -138.499789,
+      "name": "Anapa-Vityazevo",
+      "frequency": 215000,
+      "position": [
+        -7477.841797,
+        36.126909,
+        241300.703125
+      ],
+      "sceneObjects": [
+        "t:295927808"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.323297,
+        44.987288
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield22_0",
+      "callsign": "ILU",
+      "direction": -54.415131,
+      "name": "Batumi",
+      "frequency": 110300000,
+      "position": [
+        -356584.8125,
+        10.03014,
+        618472.4375
+      ],
+      "sceneObjects": [
+        "t:168395386"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        41.612203,
+        41.601731
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield22_1",
+      "callsign": "ILU",
+      "direction": -54.415131,
+      "name": "Batumi",
+      "frequency": 110300000,
+      "position": [
+        -355396.8125,
+        10.044037,
+        616600.5
+      ],
+      "sceneObjects": [
+        "t:318309567"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        41.591406,
+        41.613985
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield22_2",
+      "callsign": "BTM",
+      "direction": 0,
+      "name": "Batumi",
+      "frequency": 977000000,
+      "position": [
+        -355664.40625,
+        10.044037,
+        617386.8125
+      ],
+      "sceneObjects": [
+        "t:168920280"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        41.600419,
+        41.610899
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield22_3",
+      "callsign": "LU",
+      "direction": -60.999996,
+      "name": "Batumi",
+      "frequency": 430000,
+      "position": [
+        -356480.125,
+        10.113043,
+        618549.1875
+      ],
+      "sceneObjects": [
+        "t:168428658"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        41.613238,
+        41.602594
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield32_0",
+      "callsign": "CX",
+      "direction": -86.499961,
+      "name": "Beslan",
+      "frequency": 1050000,
+      "position": [
+        -148253.15625,
+        542.239983,
+        838154.1875
+      ],
+      "sceneObjects": [
+        "t:239140869"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        44.539874,
+        43.2155
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield32_1",
+      "callsign": "C",
+      "direction": -86.499961,
+      "name": "Beslan",
+      "frequency": 250000,
+      "position": [
+        -148418,
+        524.825537,
+        840849.1875
+      ],
+      "sceneObjects": [
+        "t:239173633"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        44.5721,
+        43.210717
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield32_2",
+      "callsign": "ICH",
+      "direction": -86.499961,
+      "name": "Beslan",
+      "frequency": 110500000,
+      "position": [
+        -148692.109375,
+        529.274577,
+        845322.875
+      ],
+      "sceneObjects": [
+        "t:239206458"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        44.62558,
+        43.202754
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield32_3",
+      "callsign": "",
+      "direction": -86.499961,
+      "name": "Beslan",
+      "frequency": 110500000,
+      "position": [
+        -148636.890625,
+        524.825537,
+        842454
+      ],
+      "sceneObjects": [
+        "t:463175689"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        44.591083,
+        43.2068
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield17_0",
+      "callsign": "GN",
+      "direction": -139.999984,
+      "name": "Gelendzhik",
+      "frequency": 1000000,
+      "position": [
+        -50752.625,
+        22.009923,
+        298204.46875
+      ],
+      "sceneObjects": [
+        "t:279478273"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        38.008795,
+        44.569658
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield17_1",
+      "callsign": "GN",
+      "direction": 0,
+      "name": "Gelendzhik",
+      "frequency": 114300000,
+      "position": [
+        -50420.347656,
+        22.009923,
+        298457.125
+      ],
+      "sceneObjects": [
+        "t:118526060"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        38.012222,
+        44.572498
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield21_0",
+      "callsign": "XC",
+      "direction": 151.003298,
+      "name": "Gudauta",
+      "frequency": 395000,
+      "position": [
+        -198344.5625,
+        10.015866,
+        517357
+      ],
+      "sceneObjects": [
+        "t:222199809"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        40.578961,
+        43.099003
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield24_0",
+      "callsign": "KT",
+      "direction": -109.999979,
+      "name": "Kobuleti",
+      "frequency": 870000,
+      "position": [
+        -319739.03125,
+        10.928995,
+        630753.5625
+      ],
+      "sceneObjects": [
+        "t:175898624"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        41.802928,
+        41.918616
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield24_1",
+      "callsign": "T",
+      "direction": -109.999979,
+      "name": "Kobuleti",
+      "frequency": 490000,
+      "position": [
+        -318815.5625,
+        18.272494,
+        633290.6875
+      ],
+      "sceneObjects": [
+        "t:176947200"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        41.834303,
+        41.924494
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield24_2",
+      "callsign": "IKB",
+      "direction": -109.999979,
+      "name": "Kobuleti",
+      "frequency": 111500000,
+      "position": [
+        -317495.75,
+        18.017043,
+        636918.25
+      ],
+      "sceneObjects": [
+        "t:176980890"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        41.879171,
+        41.932878
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield24_3",
+      "callsign": "IKB",
+      "direction": -109.999979,
+      "name": "Kobuleti",
+      "frequency": 111500000,
+      "position": [
+        -318329.625,
+        18.010018,
+        634820.8125
+      ],
+      "sceneObjects": [
+        "t:334561284"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        41.85314,
+        41.927403
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield24_4",
+      "callsign": "KBL",
+      "direction": 0,
+      "name": "Kobuleti",
+      "frequency": 1154000000,
+      "position": [
+        -317879,
+        18.010018,
+        635514.8125
+      ],
+      "sceneObjects": [
+        "t:176980891"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        41.86197,
+        41.93077
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield13_0",
+      "callsign": "OC",
+      "direction": 87.003387,
+      "name": "Krasnodar-Center",
+      "frequency": 625000,
+      "position": [
+        11980.96875,
+        31.707849,
+        373613.71875
+      ],
+      "sceneObjects": [
+        "t:302153728"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        39.012047,
+        45.085828
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield13_1",
+      "callsign": "O",
+      "direction": 87.003387,
+      "name": "Krasnodar-Center",
+      "frequency": 303000,
+      "position": [
+        11804.427734,
+        29.328925,
+        370241.34375
+      ],
+      "sceneObjects": [
+        "t:302120975"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        38.969263,
+        45.086491
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield13_2",
+      "callsign": "MB",
+      "direction": -92.996632,
+      "name": "Krasnodar-Center",
+      "frequency": 625000,
+      "position": [
+        11410.707031,
+        25.57611,
+        362701.09375
+      ],
+      "sceneObjects": [
+        "t:302055424"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        38.873594,
+        45.087925
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield13_3",
+      "callsign": "M",
+      "direction": -92.996632,
+      "name": "Krasnodar-Center",
+      "frequency": 303000,
+      "position": [
+        11567.539063,
+        25.479861,
+        365697
+      ],
+      "sceneObjects": [
+        "t:302088209"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        38.911608,
+        45.087368
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield13_4",
+      "callsign": "MB",
+      "direction": -92.996632,
+      "name": "Krasnodar-Center",
+      "frequency": 838000000,
+      "position": [
+        11798.22168,
+        29.298262,
+        370113.1875
+      ],
+      "sceneObjects": [
+        "t:678953724"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        38.967638,
+        45.08652
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield13_5",
+      "callsign": "MB",
+      "direction": -92.996632,
+      "name": "Krasnodar-Center",
+      "frequency": 838000000,
+      "position": [
+        11492.823242,
+        30.010032,
+        367052.96875
+      ],
+      "sceneObjects": [
+        "t:678953725"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        38.928677,
+        45.085808
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield13_6",
+      "callsign": "MB",
+      "direction": -92.996652,
+      "name": "Krasnodar-Center",
+      "frequency": 840000000,
+      "position": [
+        11195.09375,
+        30.866661,
+        367008.5625
+      ],
+      "sceneObjects": [
+        "t:678954398"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        38.927839,
+        45.083171
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield19_0",
+      "callsign": "KR",
+      "direction": -132.994767,
+      "name": "Krasnodar-Pashkovsky",
+      "frequency": 493000,
+      "position": [
+        3919.23291,
+        29.862306,
+        383806.1875
+      ],
+      "sceneObjects": [
+        "t:298778624"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        39.133081,
+        45.006796
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield19_1",
+      "callsign": "K",
+      "direction": -132.994767,
+      "name": "Krasnodar-Pashkovsky",
+      "frequency": 240000,
+      "position": [
+        5760.449219,
+        29.579169,
+        385781
+      ],
+      "sceneObjects": [
+        "t:300613649"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        39.159769,
+        45.021929
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield19_2",
+      "callsign": "LD",
+      "direction": 47.005224,
+      "name": "Krasnodar-Pashkovsky",
+      "frequency": 493000,
+      "position": [
+        11497.123047,
+        34.370228,
+        391935.4375
+      ],
+      "sceneObjects": [
+        "t:302284800"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        39.243028,
+        45.069032
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield19_3",
+      "callsign": "L",
+      "direction": 47.005224,
+      "name": "Krasnodar-Pashkovsky",
+      "frequency": 240000,
+      "position": [
+        9655.907227,
+        31.752404,
+        389960.625
+      ],
+      "sceneObjects": [
+        "t:302284801"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        39.216297,
+        45.053921
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield19_4",
+      "callsign": "KN",
+      "direction": 0,
+      "name": "Krasnodar-Pashkovsky",
+      "frequency": 115800000,
+      "position": [
+        5663.36377,
+        30.493774,
+        386114.75
+      ],
+      "sceneObjects": [
+        "t:137596182"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        39.163887,
+        45.020832
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield15_0",
+      "callsign": "KW",
+      "direction": 39.519802,
+      "name": "Krymsk",
+      "frequency": 408000,
+      "position": [
+        -2232.675781,
+        5.000005,
+        297972.09375
+      ],
+      "sceneObjects": [
+        "t:298090496"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        38.043726,
+        45.004894
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield15_1",
+      "callsign": "K",
+      "direction": 39.519802,
+      "name": "Krymsk",
+      "frequency": 803000,
+      "position": [
+        -4801.45459,
+        7.267079,
+        295853.0625
+      ],
+      "sceneObjects": [
+        "t:296321025"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        38.014927,
+        44.983041
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield15_2",
+      "callsign": "OX",
+      "direction": -140.480217,
+      "name": "Krymsk",
+      "frequency": 408000,
+      "position": [
+        -10679.844727,
+        72.04253,
+        291002.59375
+      ],
+      "sceneObjects": [
+        "t:294715421"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.949089,
+        44.933004
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield15_3",
+      "callsign": "O",
+      "direction": -140.480217,
+      "name": "Krymsk",
+      "frequency": 803000,
+      "position": [
+        -8481.339844,
+        32.852633,
+        292816.1875
+      ],
+      "sceneObjects": [
+        "t:294715422"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.973692,
+        44.951723
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield15_4",
+      "callsign": "OX",
+      "direction": -141.000009,
+      "name": "Krymsk",
+      "frequency": 826000000,
+      "position": [
+        -7411.83252,
+        20.010304,
+        293592
+      ],
+      "sceneObjects": [
+        "t:678953730"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.984323,
+        44.960886
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield15_5",
+      "callsign": "KW",
+      "direction": 38.99997,
+      "name": "Krymsk",
+      "frequency": 826000000,
+      "position": [
+        -5648.416504,
+        20.010304,
+        295048.15625
+      ],
+      "sceneObjects": [
+        "t:678953731"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        38.004094,
+        44.975894
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield15_6",
+      "callsign": "KW",
+      "direction": 39.519802,
+      "name": "Krymsk",
+      "frequency": 826000000,
+      "position": [
+        -8396.038086,
+        31.785951,
+        292887.1875
+      ],
+      "sceneObjects": [
+        "t:678953732"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.974655,
+        44.952449
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield15_7",
+      "callsign": "OX",
+      "direction": -140.480217,
+      "name": "Krymsk",
+      "frequency": 826000000,
+      "position": [
+        -4817.330078,
+        7.263302,
+        295839.3125
+      ],
+      "sceneObjects": [
+        "t:678953733"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        38.01474,
+        44.982907
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield15_8",
+      "callsign": "KW",
+      "direction": -140.480229,
+      "name": "Krymsk",
+      "frequency": 828000000,
+      "position": [
+        -6710.505371,
+        20.866651,
+        294536.875
+      ],
+      "sceneObjects": [
+        "t:678954399"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.996805,
+        44.966653
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield25_0",
+      "callsign": "IKS",
+      "direction": -105.999085,
+      "name": "Kutaisi",
+      "frequency": 109750000,
+      "position": [
+        -284502.84375,
+        46.542794,
+        685199.5
+      ],
+      "sceneObjects": [
+        "t:190480920"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        42.49782,
+        42.179695
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield25_1",
+      "callsign": "IKS",
+      "direction": -105.999085,
+      "name": "Kutaisi",
+      "frequency": 109750000,
+      "position": [
+        -285264.53125,
+        45.010047,
+        682978.4375
+      ],
+      "sceneObjects": [
+        "t:366314246"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        42.470274,
+        42.175142
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield25_2",
+      "callsign": "TI",
+      "direction": 74.000018,
+      "name": "Kutaisi",
+      "frequency": 477000,
+      "position": [
+        -285504.6875,
+        44.662974,
+        681690.0625
+      ],
+      "sceneObjects": [
+        "t:190447634"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        42.454567,
+        42.174289
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield25_3",
+      "callsign": "KTS",
+      "direction": 0,
+      "name": "Kutaisi",
+      "frequency": 1005000000,
+      "position": [
+        -284814.6875,
+        45.299522,
+        683676.5
+      ],
+      "sceneObjects": [
+        "t:190447972"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        42.479213,
+        42.178443
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield25_4",
+      "callsign": "KT",
+      "direction": 0,
+      "name": "Kutaisi",
+      "frequency": 113600000,
+      "position": [
+        -285487.03125,
+        44.387457,
+        681747.5
+      ],
+      "sceneObjects": [
+        "t:68354887"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        42.455276,
+        42.174389
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield29_0",
+      "callsign": "BP",
+      "direction": -52.001372,
+      "name": "Tbilisi-Lochini",
+      "frequency": 342000,
+      "position": [
+        -312185.40625,
+        567.552264,
+        892170.1875
+      ],
+      "sceneObjects": [
+        "t:179339272"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        44.909623,
+        41.703274
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield29_1",
+      "callsign": "B",
+      "direction": -52.001372,
+      "name": "Tbilisi-Lochini",
+      "frequency": 923000,
+      "position": [
+        -313847.625,
+        516.680448,
+        894297.875
+      ],
+      "sceneObjects": [
+        "t:179372035"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        44.931895,
+        41.685992
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield29_2",
+      "callsign": "IVP",
+      "direction": -52.001372,
+      "name": "Tbilisi-Lochini",
+      "frequency": 110300000,
+      "position": [
+        -316544.0625,
+        479.302481,
+        897748.5
+      ],
+      "sceneObjects": [
+        "t:177897928"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        44.967988,
+        41.657953
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield29_3",
+      "callsign": "IVP",
+      "direction": -52.001372,
+      "name": "Tbilisi-Lochini",
+      "frequency": 110300000,
+      "position": [
+        -314937,
+        479.218985,
+        895496.5625
+      ],
+      "sceneObjects": [
+        "t:338363236"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        44.944184,
+        41.674907
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield29_4",
+      "callsign": "NA",
+      "direction": 127.998645,
+      "name": "Tbilisi-Lochini",
+      "frequency": 211000,
+      "position": [
+        -318920.96875,
+        459.637972,
+        900790.1875
+      ],
+      "sceneObjects": [
+        "t:177897476"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        44.999778,
+        41.633231
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield29_5",
+      "callsign": "N",
+      "direction": 127.998645,
+      "name": "Tbilisi-Lochini",
+      "frequency": 435000,
+      "position": [
+        -317258.75,
+        474.729601,
+        898662.5
+      ],
+      "sceneObjects": [
+        "t:177897477"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        44.977543,
+        41.650521
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield29_6",
+      "callsign": "INA",
+      "direction": 127.998645,
+      "name": "Tbilisi-Lochini",
+      "frequency": 108900000,
+      "position": [
+        -314562.3125,
+        482.002923,
+        895211.875
+      ],
+      "sceneObjects": [
+        "t:179373206"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        44.941458,
+        41.678562
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield29_7",
+      "callsign": "INA",
+      "direction": 127.998645,
+      "name": "Tbilisi-Lochini",
+      "frequency": 108900000,
+      "position": [
+        -316169.375,
+        479.694816,
+        897463.8125
+      ],
+      "sceneObjects": [
+        "t:337118335"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        44.965264,
+        41.661608
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield29_8",
+      "callsign": "TB",
+      "direction": 0,
+      "name": "Tbilisi-Lochini",
+      "frequency": 113700000,
+      "position": [
+        -315388.90625,
+        477.110096,
+        895795.0625
+      ],
+      "sceneObjects": [
+        "t:60394710"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        44.946945,
+        41.670555
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield29_9",
+      "callsign": "GTB",
+      "direction": 0,
+      "name": "Tbilisi-Lochini",
+      "frequency": 986000000,
+      "position": [
+        -315581.71875,
+        484.049312,
+        894405.6875
+      ],
+      "sceneObjects": [
+        "t:177865979"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        44.930298,
+        41.670577
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield16_0",
+      "callsign": "RK",
+      "direction": 38.999724,
+      "name": "Maykop-Khanskaya",
+      "frequency": 289000,
+      "position": [
+        -22082.919922,
+        213.198242,
+        461575.46875
+      ],
+      "sceneObjects": [
+        "t:290979840"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        40.084181,
+        44.717443
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield16_1",
+      "callsign": "R",
+      "direction": 38.999724,
+      "name": "Maykop-Khanskaya",
+      "frequency": 591000,
+      "position": [
+        -24414.369141,
+        175.805962,
+        459687.53125
+      ],
+      "sceneObjects": [
+        "t:290979841"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        40.057981,
+        44.698086
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield16_2",
+      "callsign": "DG",
+      "direction": -141.000295,
+      "name": "Maykop-Khanskaya",
+      "frequency": 289000,
+      "position": [
+        -30802.216797,
+        173.935217,
+        454513.53125
+      ],
+      "sceneObjects": [
+        "t:287866880"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        39.986269,
+        44.645015
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield16_3",
+      "callsign": "D",
+      "direction": -141.000295,
+      "name": "Maykop-Khanskaya",
+      "frequency": 591000,
+      "position": [
+        -28470.767578,
+        174.66561,
+        456401.46875
+      ],
+      "sceneObjects": [
+        "t:289308672"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        40.012421,
+        44.664391
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield16_4",
+      "callsign": "DG",
+      "direction": -141.000295,
+      "name": "Maykop-Khanskaya",
+      "frequency": 836000000,
+      "position": [
+        -24437.523438,
+        175.942833,
+        459668.125
+      ],
+      "sceneObjects": [
+        "t:678953740"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        40.057712,
+        44.697894
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield16_5",
+      "callsign": "DG",
+      "direction": -141.000295,
+      "name": "Maykop-Khanskaya",
+      "frequency": 836000000,
+      "position": [
+        -27531.527344,
+        180.01019,
+        457323.53125
+      ],
+      "sceneObjects": [
+        "t:678953741"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        40.024984,
+        44.67207
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield16_6",
+      "callsign": "DG",
+      "direction": -141.000307,
+      "name": "Maykop-Khanskaya",
+      "frequency": 834000000,
+      "position": [
+        -26605.978516,
+        180.866789,
+        458079.46875
+      ],
+      "sceneObjects": [
+        "t:678954400"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        40.035455,
+        44.679754
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield26_0",
+      "callsign": "NR",
+      "direction": 115.300122,
+      "name": "MineralnyeVody",
+      "frequency": 583000,
+      "position": [
+        -53842.230469,
+        303.327421,
+        711195.0625
+      ],
+      "sceneObjects": [
+        "t:279150595"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        43.14453,
+        44.198946
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield26_1",
+      "callsign": "N",
+      "direction": 115.300122,
+      "name": "MineralnyeVody",
+      "frequency": 283000,
+      "position": [
+        -52688.359375,
+        316.610912,
+        708754.0625
+      ],
+      "sceneObjects": [
+        "t:280625160"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        43.116226,
+        44.211867
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield26_2",
+      "callsign": "IMW",
+      "direction": 115.300122,
+      "name": "MineralnyeVody",
+      "frequency": 109300000,
+      "position": [
+        -50326.4375,
+        313.023903,
+        703758.5625
+      ],
+      "sceneObjects": [
+        "t:280559890"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        43.058263,
+        44.238297
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield26_3",
+      "callsign": "IMW",
+      "direction": 115.300122,
+      "name": "MineralnyeVody",
+      "frequency": 109300000,
+      "position": [
+        -51889.148438,
+        319.947341,
+        707345.3125
+      ],
+      "sceneObjects": [
+        "t:543818727"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        43.10009,
+        44.220503
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield26_4",
+      "callsign": "MD",
+      "direction": -64.699902,
+      "name": "MineralnyeVody",
+      "frequency": 583000,
+      "position": [
+        -48676.292969,
+        310.76325,
+        700268.875
+      ],
+      "sceneObjects": [
+        "t:281935872"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        43.017738,
+        44.256747
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield26_5",
+      "callsign": "D",
+      "direction": -64.699902,
+      "name": "MineralnyeVody",
+      "frequency": 283000,
+      "position": [
+        -49830.164063,
+        307.123507,
+        702709.875
+      ],
+      "sceneObjects": [
+        "t:280559616"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        43.046088,
+        44.243846
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield26_6",
+      "callsign": "IMD",
+      "direction": -64.699902,
+      "name": "MineralnyeVody",
+      "frequency": 111700000,
+      "position": [
+        -52192.085938,
+        315.340281,
+        707705.4375
+      ],
+      "sceneObjects": [
+        "t:280593623"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        43.104064,
+        44.217421
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield26_7",
+      "callsign": "IMD",
+      "direction": -64.699902,
+      "name": "MineralnyeVody",
+      "frequency": 111700000,
+      "position": [
+        -50629.375,
+        320.01033,
+        704118.625
+      ],
+      "sceneObjects": [
+        "t:546079473"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        43.06224,
+        44.235217
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield26_8",
+      "callsign": "MN",
+      "direction": 0,
+      "name": "MineralnyeVody",
+      "frequency": 117100000,
+      "position": [
+        -50239.421875,
+        314.087991,
+        703415.5
+      ],
+      "sceneObjects": [
+        "t:119900926"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        43.054165,
+        44.239445
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield28_0",
+      "callsign": "DO",
+      "direction": -97.236068,
+      "name": "Mozdok",
+      "frequency": 525000,
+      "position": [
+        -84144.421875,
+        148.005153,
+        829029.375
+      ],
+      "sceneObjects": [
+        "t:266174464"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        44.538494,
+        43.79238
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield28_1",
+      "callsign": "D",
+      "direction": -97.236068,
+      "name": "Mozdok",
+      "frequency": 1065000,
+      "position": [
+        -83892.507813,
+        146.142297,
+        831013.4375
+      ],
+      "sceneObjects": [
+        "t:266174465"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        44.563089,
+        43.792126
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield28_2",
+      "callsign": "RM",
+      "direction": 82.763916,
+      "name": "Mozdok",
+      "frequency": 525000,
+      "position": [
+        -82791.179688,
+        139.140398,
+        839695.25
+      ],
+      "sceneObjects": [
+        "t:266272768"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        44.670692,
+        43.790945
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield28_3",
+      "callsign": "R",
+      "direction": 82.763916,
+      "name": "Mozdok",
+      "frequency": 1065000,
+      "position": [
+        -83147.640625,
+        140.692066,
+        836887.8125
+      ],
+      "sceneObjects": [
+        "t:266240000"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        44.635898,
+        43.791336
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield28_4",
+      "callsign": "MZ",
+      "direction": -97.236068,
+      "name": "Mozdok",
+      "frequency": 822000000,
+      "position": [
+        -83186.351563,
+        140.971363,
+        836579
+      ],
+      "sceneObjects": [
+        "t:678953746"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        44.632072,
+        43.791382
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield28_5",
+      "callsign": "MZ",
+      "direction": -97.236068,
+      "name": "Mozdok",
+      "frequency": 822000000,
+      "position": [
+        -83721.84375,
+        154.758974,
+        832917.3125
+      ],
+      "sceneObjects": [
+        "t:678953747"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        44.586565,
+        43.791251
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield28_6",
+      "callsign": "MK",
+      "direction": 82.763916,
+      "name": "Mozdok",
+      "frequency": 822000000,
+      "position": [
+        -83799.640625,
+        145.067482,
+        831748.8125
+      ],
+      "sceneObjects": [
+        "t:678953748"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        44.572203,
+        43.792027
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield28_7",
+      "callsign": "MK",
+      "direction": 82.763916,
+      "name": "Mozdok",
+      "frequency": 822000000,
+      "position": [
+        -83392.328125,
+        154.627688,
+        835512.4375
+      ],
+      "sceneObjects": [
+        "t:678953749"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        44.618731,
+        43.790905
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield28_8",
+      "callsign": "MZ",
+      "direction": 82.763916,
+      "name": "Mozdok",
+      "frequency": 820000000,
+      "position": [
+        -83636.195313,
+        154.866778,
+        834226.9375
+      ],
+      "sceneObjects": [
+        "t:678954401"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        44.602658,
+        43.790367
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield27_0",
+      "callsign": "NL",
+      "direction": 55.506625,
+      "name": "Nalchik",
+      "frequency": 718000,
+      "position": [
+        -122005.132813,
+        376.161387,
+        764682.375
+      ],
+      "sceneObjects": [
+        "t:249823232"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        43.692885,
+        43.535011
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield27_1",
+      "callsign": "N",
+      "direction": 55.506625,
+      "name": "Nalchik",
+      "frequency": 350000,
+      "position": [
+        -123534.171875,
+        417.185293,
+        762457.0625
+      ],
+      "sceneObjects": [
+        "t:248381440"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        43.663409,
+        43.524039
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield27_2",
+      "callsign": "INL",
+      "direction": 55.506625,
+      "name": "Nalchik",
+      "frequency": 110500000,
+      "position": [
+        -125664.609375,
+        430.35773,
+        759355.6875
+      ],
+      "sceneObjects": [
+        "t:248350149"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        43.622345,
+        43.508738
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield27_3",
+      "callsign": "INL",
+      "direction": 55.506625,
+      "name": "Nalchik",
+      "frequency": 110500000,
+      "position": [
+        -124349.5625,
+        430.010409,
+        761057.625
+      ],
+      "sceneObjects": [
+        "t:477429855"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        43.645107,
+        43.518429
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield23_0",
+      "callsign": "BI",
+      "direction": -85.299767,
+      "name": "Senaki-Kolkhi",
+      "frequency": 335000,
+      "position": [
+        -281354.25,
+        11.487805,
+        642080
+      ],
+      "sceneObjects": [
+        "t:192282630"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        41.986317,
+        42.249592
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield23_1",
+      "callsign": "B",
+      "direction": -85.299767,
+      "name": "Senaki-Kolkhi",
+      "frequency": 688000,
+      "position": [
+        -281575.5,
+        23.342671,
+        644770.9375
+      ],
+      "sceneObjects": [
+        "t:192315394"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        42.018251,
+        42.245075
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield23_2",
+      "callsign": "ITS",
+      "direction": -85.299767,
+      "name": "Senaki-Kolkhi",
+      "frequency": 108900000,
+      "position": [
+        -281888.875,
+        13.025524,
+        648576.3125
+      ],
+      "sceneObjects": [
+        "t:192349269"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        42.0634,
+        42.238667
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield23_3",
+      "callsign": "ITS",
+      "direction": -85.299767,
+      "name": "Senaki-Kolkhi",
+      "frequency": 108900000,
+      "position": [
+        -281827.96875,
+        12.790726,
+        646370.875
+      ],
+      "sceneObjects": [
+        "t:371785767"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        42.03708,
+        42.241309
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield23_4",
+      "callsign": "TSK",
+      "direction": 0,
+      "name": "Senaki-Kolkhi",
+      "frequency": 992000000,
+      "position": [
+        -281653.6875,
+        13.239942,
+        647182.625
+      ],
+      "sceneObjects": [
+        "t:192349270"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        42.04702,
+        42.242087
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield18_0",
+      "callsign": "CO",
+      "direction": -117.994619,
+      "name": "Sochi-Adler",
+      "frequency": 761000,
+      "position": [
+        -165720.53125,
+        5.664159,
+        459873.46875
+      ],
+      "sceneObjects": [
+        "t:233340945"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        39.911051,
+        43.435164
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield18_1",
+      "callsign": "ISO",
+      "direction": -117.994619,
+      "name": "Sochi-Adler",
+      "frequency": 111100000,
+      "position": [
+        -163681.03125,
+        23.207581,
+        463753.71875
+      ],
+      "sceneObjects": [
+        "t:234586966"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        39.960744,
+        43.450492
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield18_2",
+      "callsign": "ISO",
+      "direction": -117.994619,
+      "name": "Sochi-Adler",
+      "frequency": 111100000,
+      "position": [
+        -165170.921875,
+        30.010034,
+        461206.65625
+      ],
+      "sceneObjects": [
+        "t:453214300"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        39.927967,
+        43.439082
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield20_0",
+      "callsign": "AV",
+      "direction": 116.485379,
+      "name": "Sukhumi-Babushara",
+      "frequency": 489000,
+      "position": [
+        -223173.765625,
+        25.161868,
+        569571.375
+      ],
+      "sceneObjects": [
+        "t:214663172"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        41.184697,
+        42.833582
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield20_1",
+      "callsign": "A",
+      "direction": 116.485379,
+      "name": "Sukhumi-Babushara",
+      "frequency": 995000,
+      "position": [
+        -221969.65625,
+        16.383441,
+        567154.75
+      ],
+      "sceneObjects": [
+        "t:214630400"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        41.156849,
+        42.846418
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield31_0",
+      "callsign": "IVZ",
+      "direction": -44.514716,
+      "name": "Vaziani",
+      "frequency": 108750000,
+      "position": [
+        -320054.40625,
+        464.386573,
+        904121.9375
+      ],
+      "sceneObjects": [
+        "t:176751131"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        45.037014,
+        41.619095
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield31_1",
+      "callsign": "IVZ",
+      "direction": -44.514716,
+      "name": "Vaziani",
+      "frequency": 108750000,
+      "position": [
+        -318477.9375,
+        464.59983,
+        902403.625
+      ],
+      "sceneObjects": [
+        "t:335675402"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        45.019459,
+        41.635125
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield31_2",
+      "callsign": "IVI",
+      "direction": 135.485284,
+      "name": "Vaziani",
+      "frequency": 108750000,
+      "position": [
+        -318069.34375,
+        464.97541,
+        902170.1875
+      ],
+      "sceneObjects": [
+        "t:177930581"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        45.017397,
+        41.639015
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield31_3",
+      "callsign": "IVI",
+      "direction": 135.485284,
+      "name": "Vaziani",
+      "frequency": 108750000,
+      "position": [
+        -319645.90625,
+        464.500495,
+        903888.25
+      ],
+      "sceneObjects": [
+        "t:334430229"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        45.03495,
+        41.622985
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "airfield31_4",
+      "callsign": "VAS",
+      "direction": 0,
+      "name": "Vaziani",
+      "frequency": 983000000,
+      "position": [
+        -318876.5,
+        464.500465,
+        903131.125
+      ],
+      "sceneObjects": [
+        "t:177930582"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        45.02734,
+        41.630707
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "world_0",
+      "callsign": "NZ",
+      "direction": -179.999978,
+      "name": "Ust-Labinks",
+      "frequency": 330000,
+      "position": [
+        31587.583984,
+        80.409993,
+        422850.9375
+      ],
+      "sceneObjects": [
+        "t:310870017"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        39.65415,
+        45.226576
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "world_1",
+      "callsign": "AR",
+      "direction": -179.999978,
+      "name": "Chervonoglinskoye",
+      "frequency": 440000,
+      "position": [
+        96729.375,
+        5.000005,
+        -379810.53125
+      ],
+      "sceneObjects": [
+        "t:314638336"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        29.383333,
+        45.949908
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "world_2",
+      "callsign": "DM",
+      "direction": -179.999978,
+      "name": "Dmitrovka",
+      "frequency": 690000,
+      "position": [
+        41259.871094,
+        31.694215,
+        61344.707031
+      ],
+      "sceneObjects": [
+        "t:313491456"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        35.058601,
+        45.489353
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "world_3",
+      "callsign": "AG",
+      "direction": -179.999978,
+      "name": "Agoy",
+      "frequency": 381000,
+      "position": [
+        -93707.710938,
+        138.342149,
+        383231.0625
+      ],
+      "sceneObjects": [
+        "t:260177920"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        39.034429,
+        44.133242
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "world_4",
+      "callsign": "MA",
+      "direction": -179.999978,
+      "name": "Maykop",
+      "frequency": 682000,
+      "position": [
+        -32141.814453,
+        243.75766,
+        467470.5625
+      ],
+      "sceneObjects": [
+        "t:287997952"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        40.146927,
+        44.622965
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "world_5",
+      "callsign": "HS",
+      "direction": -179.999978,
+      "name": "Herson",
+      "frequency": 1065000,
+      "position": [
+        170119.265625,
+        2.524128,
+        -137766.03125
+      ],
+      "sceneObjects": [
+        "t:314966016"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        32.499994,
+        46.666575
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "world_6",
+      "callsign": "SM",
+      "direction": -179.999978,
+      "name": "Smolenkaya",
+      "frequency": 662000,
+      "position": [
+        -22412.445313,
+        78.688853,
+        359018.03125
+      ],
+      "sceneObjects": [
+        "t:290422784"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        38.796373,
+        44.787409
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "world_7",
+      "callsign": "KW",
+      "direction": -179.999978,
+      "name": "Kislovodsk",
+      "frequency": 995000,
+      "position": [
+        -87247.726563,
+        803.118113,
+        675046.6875
+      ],
+      "sceneObjects": [
+        "t:263684096"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        42.649979,
+        43.941577
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "world_8",
+      "callsign": "TC",
+      "direction": -179.999978,
+      "name": "Taganrog",
+      "frequency": 470000,
+      "position": [
+        251346.78125,
+        5.000005,
+        341832.1875
+      ],
+      "sceneObjects": [
+        "t:315555840"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        38.833317,
+        47.249909
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "world_9",
+      "callsign": "IL",
+      "direction": -179.999978,
+      "name": "Feodosiya",
+      "frequency": 300500,
+      "position": [
+        -10721.782227,
+        0.302752,
+        91145.75
+      ],
+      "sceneObjects": [
+        "t:294354944"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        35.419712,
+        45.014353
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "world_10",
+      "callsign": "SH",
+      "direction": -179.999978,
+      "name": "Shyriaeve",
+      "frequency": 389000,
+      "position": [
+        255448.65625,
+        5.000005,
+        -304739.375
+      ],
+      "sceneObjects": [
+        "t:315621376"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        30.279998,
+        47.403241
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "world_11",
+      "callsign": "OD",
+      "direction": -179.999978,
+      "name": "Odessa",
+      "frequency": 348000,
+      "position": [
+        132623.734375,
+        2.000002,
+        -279618.625
+      ],
+      "sceneObjects": [
+        "t:314867712"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        30.661109,
+        46.306297
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "world_12",
+      "callsign": "BS",
+      "direction": -179.999978,
+      "name": "Yalta",
+      "frequency": 300500,
+      "position": [
+        202840.78125,
+        0,
+        230918.171875
+      ],
+      "sceneObjects": [
+        "t:315326464"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.33693,
+        46.879909
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "world_13",
+      "callsign": "KT",
+      "direction": -179.999978,
+      "name": "Stavropol",
+      "frequency": 730000,
+      "position": [
+        39516.828125,
+        352.025468,
+        622585
+      ],
+      "sceneObjects": [
+        "t:313458688"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        42.181646,
+        45.121577
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "world_14",
+      "callsign": "ER",
+      "direction": -179.999978,
+      "name": "Yegorlykskaya",
+      "frequency": 435000,
+      "position": [
+        189361.796875,
+        101.853572,
+        487761.8125
+      ],
+      "sceneObjects": [
+        "t:315097088"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        40.666647,
+        46.583243
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "world_15",
+      "callsign": "KM",
+      "direction": -179.999978,
+      "name": "Komisarivka",
+      "frequency": 950000,
+      "position": [
+        127528.007813,
+        2.000002,
+        55884.429688
+      ],
+      "sceneObjects": [
+        "t:314834944"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        35.016657,
+        46.266575
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "world_16",
+      "callsign": "SK",
+      "direction": -179.999978,
+      "name": "Skadovsk",
+      "frequency": 680000,
+      "position": [
+        110740.085938,
+        3.859469,
+        -105954.679688
+      ],
+      "sceneObjects": [
+        "t:314736640"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        32.91666,
+        46.133242
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "world_17",
+      "callsign": "DA",
+      "direction": -179.999978,
+      "name": "Gali",
+      "frequency": 525000,
+      "position": [
+        -244178.796875,
+        132.854198,
+        621256.25
+      ],
+      "sceneObjects": [
+        "t:207519744"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        41.783315,
+        42.59991
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "world_18",
+      "callsign": "DF",
+      "direction": -179.999978,
+      "name": "Mukhrani",
+      "frequency": 520000,
+      "position": [
+        -292419.78125,
+        522.836949,
+        860239.0625
+      ],
+      "sceneObjects": [
+        "t:187695104"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        44.565533,
+        41.916577
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "world_19",
+      "callsign": "RF",
+      "direction": -179.999978,
+      "name": "Ladozhskaya",
+      "frequency": 324000,
+      "position": [
+        39622.871094,
+        62.237573,
+        442914.4375
+      ],
+      "sceneObjects": [
+        "t:313327616"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        39.916649,
+        45.283243
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "world_20",
+      "callsign": "FM",
+      "direction": -179.999978,
+      "name": "Teplorechensky",
+      "frequency": 1182000,
+      "position": [
+        -54782.4375,
+        253.499033,
+        742905.8125
+      ],
+      "sceneObjects": [
+        "t:279281664"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        43.533311,
+        44.15491
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "world_21",
+      "callsign": "BJ",
+      "direction": -179.999978,
+      "name": "Kalaus",
+      "frequency": 735000,
+      "position": [
+        -112412.046875,
+        347.660656,
+        889038.25
+      ],
+      "sceneObjects": [
+        "t:253198336"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        45.216642,
+        43.466578
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "world_22",
+      "callsign": "NK",
+      "direction": -179.999978,
+      "name": "Nikolaev-Kulbakino",
+      "frequency": 1030000,
+      "position": [
+        200023.625,
+        2.973928,
+        -168025.390625
+      ],
+      "sceneObjects": [
+        "t:315260928"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        32.099995,
+        46.933241
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "world_23",
+      "callsign": "MN",
+      "direction": -179.999978,
+      "name": "Manychsky",
+      "frequency": 705000,
+      "position": [
+        238988.84375,
+        93.700884,
+        459902.875
+      ],
+      "sceneObjects": [
+        "t:315457536"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        40.366647,
+        47.049909
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "world_24",
+      "callsign": "KC",
+      "direction": -179.999978,
+      "name": "Kerch",
+      "frequency": 1050000,
+      "position": [
+        31183.582031,
+        35.950666,
+        166738.03125
+      ],
+      "sceneObjects": [
+        "t:309755904"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        36.399988,
+        45.366575
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "world_25",
+      "callsign": "TY",
+      "direction": -179.999978,
+      "name": "TaganrogYuzhny",
+      "frequency": 720000,
+      "position": [
+        245887.234375,
+        5.000005,
+        343510.5625
+      ],
+      "sceneObjects": [
+        "t:315490304"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        38.849984,
+        47.199909
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "world_26",
+      "callsign": "AL",
+      "direction": -179.999978,
+      "name": "Ali",
+      "frequency": 353000,
+      "position": [
+        -282495.46875,
+        723.020682,
+        781223.5
+      ],
+      "sceneObjects": [
+        "t:193265664"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        43.644701,
+        42.096021
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "world_27",
+      "callsign": "SA",
+      "direction": -179.999978,
+      "name": "Elista",
+      "frequency": 311000,
+      "position": [
+        200185.21875,
+        88.166821,
+        771829.25
+      ],
+      "sceneObjects": [
+        "t:315293696"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        44.333308,
+        46.373244
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "world_28",
+      "callsign": "XT",
+      "direction": -179.999978,
+      "name": "Ryazanskaya",
+      "frequency": 312000,
+      "position": [
+        2140.25708,
+        45.922802,
+        418337.25
+      ],
+      "sceneObjects": [
+        "t:298942464"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        39.56665,
+        44.966576
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "world_29",
+      "callsign": "KH",
+      "direction": -179.999978,
+      "name": "Kakhovka",
+      "frequency": 485000,
+      "position": [
+        185859.78125,
+        3.237596,
+        -61623.34375
+      ],
+      "sceneObjects": [
+        "t:315064320"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        33.496659,
+        46.808241
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "world_30",
+      "callsign": "WS",
+      "direction": -179.999978,
+      "name": "Vesely",
+      "frequency": 641000,
+      "position": [
+        248966.796875,
+        7.052212,
+        485735.125
+      ],
+      "sceneObjects": [
+        "t:315523072"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        40.716647,
+        47.116576
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "world_31",
+      "callsign": "WR",
+      "direction": -179.999978,
+      "name": "Odessa",
+      "frequency": 309500,
+      "position": [
+        153563.03125,
+        2.412611,
+        -274177.90625
+      ],
+      "sceneObjects": [
+        "t:314933248"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        30.723886,
+        46.496019
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "world_32",
+      "callsign": "VM",
+      "direction": -179.999978,
+      "name": "Armavir",
+      "frequency": 740000,
+      "position": [
+        13270.845703,
+        232.423328,
+        540570.375
+      ],
+      "sceneObjects": [
+        "t:304971776"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        41.116648,
+        44.966576
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "world_33",
+      "callsign": "WK",
+      "direction": -179.999978,
+      "name": "Grozny",
+      "frequency": 830000,
+      "position": [
+        -115728.125,
+        6.828314,
+        929610.25
+      ],
+      "sceneObjects": [
+        "t:251691008"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        45.699975,
+        43.383244
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "world_34",
+      "callsign": "TH",
+      "direction": -179.999978,
+      "name": "Tiraspol",
+      "frequency": 515000,
+      "position": [
+        197836.03125,
+        5.000005,
+        -358637.03125
+      ],
+      "sceneObjects": [
+        "t:315195392"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        29.599999,
+        46.866575
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "world_35",
+      "callsign": "KC",
+      "direction": -179.999978,
+      "name": "Simferopol",
+      "frequency": 580000,
+      "position": [
+        -42789.855469,
+        44.657801,
+        -54661.699219
+      ],
+      "sceneObjects": [
+        "t:282361856"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        33.566659,
+        44.749908
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "world_36",
+      "callsign": "SN",
+      "direction": -179.999978,
+      "name": "Sultanskoye",
+      "frequency": 866000,
+      "position": [
+        -14871.457031,
+        377.109447,
+        667798.1875
+      ],
+      "sceneObjects": [
+        "t:294322176"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        42.666645,
+        44.591577
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "world_37",
+      "callsign": "DW",
+      "direction": -179.999978,
+      "name": "Buyalyk",
+      "frequency": 625000,
+      "position": [
+        198494.375,
+        5.000005,
+        -274699.25
+      ],
+      "sceneObjects": [
+        "t:315228160"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        30.699997,
+        46.899908
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "world_38",
+      "callsign": "SR",
+      "direction": -179.999978,
+      "name": "Sarmakovo",
+      "frequency": 907000,
+      "position": [
+        -104016.257813,
+        1117.211933,
+        715148.0625
+      ],
+      "sceneObjects": [
+        "t:255819776"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        43.116645,
+        43.74991
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "world_39",
+      "callsign": "TD",
+      "direction": -179.999978,
+      "name": "Tendrovskiy",
+      "frequency": 309500,
+      "position": [
+        132383.515625,
+        1.000001,
+        -213243.359375
+      ],
+      "sceneObjects": [
+        "t:314900480"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        31.522774,
+        46.318519
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "world_40",
+      "callsign": "SH",
+      "direction": -179.999978,
+      "name": "Sukhoy",
+      "frequency": 862000,
+      "position": [
+        252081.109375,
+        13.852774,
+        533942.125
+      ],
+      "sceneObjects": [
+        "t:315588608"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        41.349979,
+        47.09991
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "world_41",
+      "callsign": "DV",
+      "direction": -179.999978,
+      "name": "Dzhubga",
+      "frequency": 420000,
+      "position": [
+        -74816.820313,
+        63.20854,
+        355136.0625
+      ],
+      "sceneObjects": [
+        "t:268500992"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        38.701374,
+        44.320464
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "world_42",
+      "callsign": "GE",
+      "direction": -179.999978,
+      "name": "Genichesk",
+      "frequency": 300500,
+      "position": [
+        117802.703125,
+        1.887341,
+        40644.195313
+      ],
+      "sceneObjects": [
+        "t:314769408"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        34.816102,
+        46.182408
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "world_43",
+      "callsign": "GW",
+      "direction": -179.999978,
+      "name": "Primorsko-Akhtarsk",
+      "frequency": 920000,
+      "position": [
+        114807.015625,
+        8.405183,
+        305325.96875
+      ],
+      "sceneObjects": [
+        "t:314802176"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        38.233318,
+        46.049909
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "world_44",
+      "callsign": "QG",
+      "direction": -179.999978,
+      "name": "Yasnaya",
+      "frequency": 435000,
+      "position": [
+        222679.15625,
+        98.023337,
+        484495.90625
+      ],
+      "sceneObjects": [
+        "t:315392000"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        40.666647,
+        46.883243
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "world_45",
+      "callsign": "AL",
+      "direction": -179.999978,
+      "name": "Alushta",
+      "frequency": 384000,
+      "position": [
+        -50326.164063,
+        5.000005,
+        11313.958008
+      ],
+      "sceneObjects": [
+        "t:279445504"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        34.398325,
+        44.674908
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "world_46",
+      "callsign": "DO",
+      "direction": -179.999978,
+      "name": "Dobrushyn",
+      "frequency": 1175000,
+      "position": [
+        26887.388672,
+        50.001286,
+        -71200.710938
+      ],
+      "sceneObjects": [
+        "t:308346880"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        33.36166,
+        45.377964
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "world_47",
+      "callsign": "ND",
+      "direction": -179.999978,
+      "name": "Bolshevik",
+      "frequency": 507000,
+      "position": [
+        95501.28125,
+        65.056957,
+        462884.59375
+      ],
+      "sceneObjects": [
+        "t:314671104"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        40.233315,
+        45.766576
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "world_48",
+      "callsign": "PR",
+      "direction": -179.999978,
+      "name": "Peredovay",
+      "frequency": 1210000,
+      "position": [
+        -78315.664063,
+        631.934653,
+        578030.8125
+      ],
+      "sceneObjects": [
+        "t:267354112"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        41.466648,
+        44.116576
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "world_49",
+      "callsign": "PA",
+      "direction": -179.999978,
+      "name": "Parutine",
+      "frequency": 905000,
+      "position": [
+        173728.484375,
+        2.022021,
+        -183237.75
+      ],
+      "sceneObjects": [
+        "t:315031552"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        31.904995,
+        46.694908
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "world_50",
+      "callsign": "OE",
+      "direction": -179.999978,
+      "name": "Gori",
+      "frequency": 462000,
+      "position": [
+        -286124.3125,
+        604.993647,
+        822770.125
+      ],
+      "sceneObjects": [
+        "t:191430656"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        44.1322,
+        42.016577
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "world_51",
+      "callsign": "LY",
+      "direction": -179.999978,
+      "name": "Liubymivka",
+      "frequency": 670000,
+      "position": [
+        56011.175781,
+        50.001397,
+        48464.128906
+      ],
+      "sceneObjects": [
+        "t:314310656"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        34.898324,
+        45.624908
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "world_52",
+      "callsign": "MA",
+      "direction": -179.999978,
+      "name": "Mariupol",
+      "frequency": 770000,
+      "position": [
+        225914.703125,
+        2.405937,
+        238245.421875
+      ],
+      "sceneObjects": [
+        "t:315424768"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.449986,
+        47.083242
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "world_53",
+      "callsign": "AH",
+      "direction": -179.999978,
+      "name": "Akhilleon",
+      "frequency": 300500,
+      "position": [
+        40930.476563,
+        77.22712,
+        201825.6875
+      ],
+      "sceneObjects": [
+        "t:312410112"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        36.853043,
+        45.439909
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "world_54",
+      "callsign": "NK",
+      "direction": -179.999978,
+      "name": "Nikolaev-Matveyevka",
+      "frequency": 1030000,
+      "position": [
+        217274.171875,
+        3.520703,
+        -177463.6875
+      ],
+      "sceneObjects": [
+        "t:315359232"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        31.973051,
+        47.087408
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "world_55",
+      "callsign": "NE",
+      "direction": -179.999978,
+      "name": "Melitopol",
+      "frequency": 740000,
+      "position": [
+        194790.4375,
+        2.729047,
+        75772.835938
+      ],
+      "sceneObjects": [
+        "t:315129856"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        35.299989,
+        46.866575
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "world_56",
+      "callsign": "LE",
+      "direction": -179.999978,
+      "name": "TchervonoLissya",
+      "frequency": 395000,
+      "position": [
+        -32929.128906,
+        419.738579,
+        -713.123108
+      ],
+      "sceneObjects": [
+        "t:285310976"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        34.249992,
+        44.833242
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "world_57",
+      "callsign": "UH",
+      "direction": -179.999978,
+      "name": "Tikhoretsk",
+      "frequency": 528000,
+      "position": [
+        101857.085938,
+        60.508731,
+        450564
+      ],
+      "sceneObjects": [
+        "t:314703872"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        40.083315,
+        45.833243
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "world_58",
+      "callsign": "RE",
+      "direction": -179.999978,
+      "name": "Rostov-Na-Donu",
+      "frequency": 320000,
+      "position": [
+        254315.078125,
+        64.840397,
+        412917.5
+      ],
+      "sceneObjects": [
+        "t:315654144"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        39.769982,
+        47.224909
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "world_59",
+      "callsign": "LA",
+      "direction": -179.999978,
+      "name": "Lazarevskoye",
+      "frequency": 307000,
+      "position": [
+        -115885.585938,
+        55.1332,
+        409331.03125
+      ],
+      "sceneObjects": [
+        "t:250314755"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        39.337484,
+        43.917131
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "world_60",
+      "callsign": "BD",
+      "direction": -179.999978,
+      "name": "Berdyansk",
+      "frequency": 342000,
+      "position": [
+        193557.578125,
+        2.010851,
+        187810.609375
+      ],
+      "sceneObjects": [
+        "t:315162624"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        36.766654,
+        46.816575
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "world_61",
+      "callsign": "KP",
+      "direction": -179.999978,
+      "name": "Kropotkin",
+      "frequency": 214000,
+      "position": [
+        62738.71875,
+        125.442501,
+        492136.125
+      ],
+      "sceneObjects": [
+        "t:314507264"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        40.566648,
+        45.449909
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "world_62",
+      "callsign": "LA",
+      "direction": -179.999978,
+      "name": "Lymans-Ke",
+      "frequency": 750000,
+      "position": [
+        174369.8125,
+        5.000005,
+        -329002.8125
+      ],
+      "sceneObjects": [
+        "t:314998784"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        29.999999,
+        46.666575
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "BEACON",
+      "beaconId": "world_63",
+      "callsign": "KS",
+      "direction": -179.999978,
+      "name": "Krasny",
+      "frequency": 1025000,
+      "position": [
+        255528.015625,
+        5.000005,
+        457062.96875
+      ],
+      "sceneObjects": [
+        "t:315686912"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        40.349981,
+        47.199909
+      ]
+    }
+  }
+]

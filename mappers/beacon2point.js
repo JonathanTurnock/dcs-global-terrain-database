@@ -12,6 +12,7 @@ const features = beacons.map(
     positionGeo,
     sceneObjects,
   }) => point([positionGeo.longitude, positionGeo.latitude], {
+      type: "BEACON",
       beaconId,
       callsign,
       direction,

@@ -1,0 +1,8 @@
+## Global Index Database Config - Update this config to have the build process bundle the FeatureCollection file
+
+terrains:
+  - name: "caucasus"
+    features:
+      - src/caucasus/terrain.json
+      - src/caucasus/beacons.json
+      - src/caucasus/aerodromes.json

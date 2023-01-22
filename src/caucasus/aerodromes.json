@@ -1,0 +1,14 @@
+[
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "AERODROME",
+      "id": "22",
+      "name": "Batumi"
+    },
+    "geometry": {
+      "coordinates": [41.601064497508276, 41.60854536537292],
+      "type": "Point"
+    }
+  }
+]
