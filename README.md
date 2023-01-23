@@ -1,4 +1,4 @@
-# DCS Global Index Database
+# DCS Global Terrain Database
 
 > HELP WANTED!! ⚠️
 >
