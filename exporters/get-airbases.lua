@@ -17,6 +17,8 @@ Example:
         "name": "Anapa-Vityazevo"
     }
 }
+
+This code is under MIT licence, you can find the complete file at https://opensource.org/licenses/MIT
 ]]--
 local features = {}
 
