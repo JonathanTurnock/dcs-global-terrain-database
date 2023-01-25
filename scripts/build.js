@@ -26,17 +26,17 @@ terrains.forEach(({ name, features }) => {
     features.flatMap((it) => readJsonSync(join(__dirname, `../${it}`)))
   );
 
-  // if (!ajv.validate(geoJsonSchema, fc)) {
-  //   const errors = ajv.errors.map((it) => {
-  //     const [item, ...path] = trimStart(it.instancePath, "/features/").split(
-  //       "/"
-  //     );
-  //     const instance = get(fc.features[+item], path);
-  //
-  //     return { ...it, instance };
-  //   });
-  //   throw new ValidationError(errors);
-  // }
+  if (!ajv.validate(geoJsonSchema, fc)) {
+    const errors = ajv.errors.map((it) => {
+      const [item, ...path] = trimStart(it.instancePath, "/features/").split(
+        "/"
+      );
+      const instance = get(fc.features[+item], path);
+
+      return { ...it, instance };
+    });
+    throw new ValidationError(errors);
+  }
 
   fc.features.forEach((feature) => {
     const type = z.enum(["TERRAIN", "AIRBASE", "BEACON", "PARKING"]).parse(feature.properties.type);

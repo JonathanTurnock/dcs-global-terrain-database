@@ -1,5 +1,8 @@
 {
-  "geometry": [],
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": []
+  },
   "properties": {
     "center": {
       "alt": 0,
