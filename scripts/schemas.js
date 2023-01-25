@@ -4,7 +4,9 @@ const terrainSchema = z.object({
   type: z.literal("TERRAIN"),
   id: z.string(),
   name: z.string(),
-  projection: z.string(),
+  projection: z.object({
+    proj: z.string()
+  }),
 });
 
 const beaconSchema = z.object({
@@ -19,9 +21,15 @@ const beaconSchema = z.object({
 });
 
 const aerodromeSchema = z.object({
-  type: z.literal("AERODROME"),
+  type: z.literal("AIRBASE"),
   id: z.string(),
   name: z.string()
 });
+
+const parkingSchema = z.object({
+  type: z.literal("PARKING"),
+  id: z.string(),
+  airbase: z.string()
+})
 
 module.exports = { terrainSchema, beaconSchema, aerodromeSchema };

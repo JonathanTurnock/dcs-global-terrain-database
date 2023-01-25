@@ -1,23 +1,30 @@
-[
-  {
-    "type": "Feature",
-    "properties": {
-      "type": "TERRAIN",
-      "id": "Caucasus",
-      "name": "Caucasus",
-      "projection": "+proj=tmerc +lat_0=0 +lon_0=33 +k_0=0.9996 +x_0=-99516.9999999732 +y_0=-4998114.999999984 +towgs84=0,0,0,0,0,0,0 +units=m +vunits=m +ellps=WGS84 +no_defs +axis=neu"
+{
+  "geometry": [],
+  "properties": {
+    "center": {
+      "alt": 0,
+      "lat": 45.129497060329,
+      "lon": 34.265515188456
     },
-    "geometry": {
-      "coordinates": [
-        [
-          [28.906936011800695, 46.686121547204266],
-          [28.906936011800695, 39.55825295548573],
-          [46.00806759587198, 39.55825295548573],
-          [46.00806759587198, 46.686121547204266],
-          [28.906936011800695, 46.686121547204266]
-        ]
-      ],
-      "type": "Polygon"
+    "hemisphere": "n",
+    "id": "Caucasus",
+    "name": "Caucasus",
+    "projection": {
+      "offset": {
+        "x": -4998115,
+        "y": 0,
+        "z": -99517
+      },
+      "proj": "+proj=tmerc +lat_0=0 +lon_0=33 +k_0=0.9996 +x_0=-99517 +y_0=-4998115 +towgs84=0,0,0,0,0,0,0 +units=m +vunits=m +ellps=WGS84 +no_defs +axis=neu",
+      "scale": 0.9996
+    },
+    "type": "TERRAIN",
+    "utm": {
+      "centralMeridian": 33,
+      "endLon": 36,
+      "startLon": 30,
+      "zone": 36
     }
-  }
-]
+  },
+  "type": "Feature"
+}
