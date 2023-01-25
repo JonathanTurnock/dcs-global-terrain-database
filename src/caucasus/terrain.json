@@ -1,7 +1,7 @@
 {
   "geometry": {
-    "type": "Polygon",
-    "coordinates": []
+    "coordinates": [],
+    "type": "Polygon"
   },
   "properties": {
     "center": {

@@ -30,7 +30,7 @@ function getUtm (lon)
 end
 
 local type = "Feature"
-local geometry = {} --TODO: Calculate the BBOX of the theatre (Total Area)
+local geometry = {type="Polygon",coordinates={}} --TODO: Calculate the BBOX of the theatre (Total Area)
 local properties = { type = "TERRAIN", id = env.mission.theatre, name = env.mission.theatre }
 
 lat, lon, alt = coord.LOtoLL({ x = 0, y = 0, z = 0 })
