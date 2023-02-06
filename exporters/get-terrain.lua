@@ -11,6 +11,10 @@
     https://mangomap.com/robertyoung/maps/69585/what-utm-zone-am-i-in-%23#
 
     This code is under MIT licence, you can find the complete file at https://opensource.org/licenses/MIT
+
+    Usage:
+        Copy and Send the below code-block into DCS Fiddle and Select the GUI environment
+        NOTE a terrain must be loaded, either in the mission editor or running
 ]]--
 local getUtm = function(lon)
     local utm = {}
