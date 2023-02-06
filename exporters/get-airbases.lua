@@ -22,8 +22,6 @@ This code is under MIT licence, you can find the complete file at https://openso
 ]]--
 local features = {}
 
-local airbases = world.getAirbases()
-
 local categories = { "AIRDROME", "HELIPAD", "SHIP" }
 
 function addAirbase (airbase)
