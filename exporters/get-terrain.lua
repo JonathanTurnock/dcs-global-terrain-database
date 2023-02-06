@@ -45,7 +45,13 @@ local sw_lat, sw_lon = terrain.convertMetersToLatLon(SW_bound[1] * 1000, SW_boun
 local type = "Feature"
 local geometry = {
     type = "Polygon",
-    coordinates = { { { nw_lon, nw_lat }, { ne_lon, ne_lat }, { se_lon, se_lat }, { sw_lon, sw_lat }, { nw_lon, nw_lat }, } }
+    coordinates = { {
+                        { nw_lon, nw_lat },
+                        { sw_lon, sw_lat },
+                        { se_lon, se_lat },
+                        { ne_lon, ne_lat },
+                        { nw_lon, nw_lat },
+                    } }
 }
 local properties = { type = "TERRAIN", id = terrain.GetTerrainConfig("id"), name = terrain.GetTerrainConfig("name") }
 
