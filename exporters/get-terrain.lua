@@ -12,7 +12,7 @@
 
     This code is under MIT licence, you can find the complete file at https://opensource.org/licenses/MIT
 ]]--
-local function getUtm (lon)
+local getUtm = function(lon)
     local utm = {}
     if lon >= 0 then
         utm.startLon = lon - (lon % 6)
@@ -32,26 +32,20 @@ end
 local NE_bound = terrain.GetTerrainConfig("NE_bound")
 local SW_bound = terrain.GetTerrainConfig("SW_bound")
 
-local nw_lat, nw_lon = terrain.convertMetersToLatLon(NE_bound[1]*1000,SW_bound[3]*1000)
-local ne_lat, ne_lon = terrain.convertMetersToLatLon(NE_bound[1]*1000,NE_bound[3]*1000)
+local nw_lat, nw_lon = terrain.convertMetersToLatLon(NE_bound[1] * 1000, SW_bound[3] * 1000)
+local ne_lat, ne_lon = terrain.convertMetersToLatLon(NE_bound[1] * 1000, NE_bound[3] * 1000)
 
-local se_lat, se_lon = terrain.convertMetersToLatLon(SW_bound[1]*1000,NE_bound[3]*1000)
-local sw_lat, sw_lon = terrain.convertMetersToLatLon(SW_bound[1]*1000,SW_bound[3]*1000)
+local se_lat, se_lon = terrain.convertMetersToLatLon(SW_bound[1] * 1000, NE_bound[3] * 1000)
+local sw_lat, sw_lon = terrain.convertMetersToLatLon(SW_bound[1] * 1000, SW_bound[3] * 1000)
 
 local type = "Feature"
 local geometry = {
-        type="Polygon",
-        coordinates={{
-            {nw_lon,nw_lat},
-            {ne_lon,ne_lat},
-            {se_lon,se_lat},
-            {sw_lon,sw_lat},
-            {nw_lon,nw_lat},
-        }}
-    }
+    type = "Polygon",
+    coordinates = { { { nw_lon, nw_lat }, { ne_lon, ne_lat }, { se_lon, se_lat }, { sw_lon, sw_lat }, { nw_lon, nw_lat }, } }
+}
 local properties = { type = "TERRAIN", id = terrain.GetTerrainConfig("id"), name = terrain.GetTerrainConfig("name") }
 
-local lat, lon = terrain.convertMetersToLatLon(0,0)
+local lat, lon = terrain.convertMetersToLatLon(0, 0)
 
 properties.center = { lat = lat, lon = lon, alt = alt }
 
@@ -59,12 +53,12 @@ local utm = getUtm(lon)
 
 local scale = 0.9996
 
-local x,z = terrain.convertLatLonToMeters(0, 0 + utm.centralMeridian)
+local x, z = terrain.convertLatLonToMeters(0, 0 + utm.centralMeridian)
 
 local proj = "+proj=tmerc +lat_0=0 +lon_0=" .. utm.centralMeridian .. " +k_0=" .. scale .. " +x_0=" .. z .. " +y_0=" .. x .. " +towgs84=0,0,0,0,0,0,0 +units=m +vunits=m +ellps=WGS84 +no_defs +axis=neu"
 
 properties.hemisphere = lat > 0 and "n" or "s"
 properties.utm = utm
-properties.projection = { scale = scale, offset = {x=x,y=0,z=z}, proj = proj }
+properties.projection = { scale = scale, offset = { x = x, y = 0, z = z }, proj = proj }
 
 return { type = type, geometry = geometry, properties = properties }
